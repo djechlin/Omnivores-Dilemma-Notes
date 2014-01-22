@@ -24,9 +24,10 @@ Review question:  Why did corn dominate America?
 * intoxicant (?)
 * make whiskey
 * has the economic properties of money (store of value)
+* can produce uniform generations, hence mechanizable, scalable, monoculture
 * strange sex life means requires human intervention to breed, ergo artificial selection is necessary
 * hybrids create intellectual property, insanely unusual and important
 
 Pollan goes into the biology in some detail, I think to show how distinct corn is and how it "conquered" us. This is important because this entire chapter of the book is an argument against monoculture, and corn's biological properties are necessary for that.
 
-By the way, insanely nontrivial to do this historical analysis on corn as currency.
+By the way, insanely nontrivial to do this historical analysis on corn as currency. Glib and suspect analysis.
